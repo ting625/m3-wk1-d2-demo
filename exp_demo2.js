@@ -6,5 +6,3 @@ app.get('/hello', function(req, res) {
 });
 
 app.listen(3000);
-
-
